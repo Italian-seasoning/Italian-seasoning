@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Italian-seasoning
-- 👀 I’m interested in ...Desktop Apps and Websites, Airplanes and 3d printing.
-- 🌱 I’m currently learning ...HTML and Python.
-- 💞️ I’m looking to collaborate on ...A detailed Roblox game and a Desktop App data base.
+- 👀 I’m interested in ...Desktop Apps and Websites, Roblox development, Airplanes and 3d printing.
+- 🌱 I’m currently learning ...HTML and CSS.
+- 💞️ I’m looking to collaborate on ...Desktop App data base.
 - 📫 How to reach me ...you can't reach me :)
 this is a cool html video i found!
 https://www.youtube.com/watch?v=xvFZjo5PgG0
