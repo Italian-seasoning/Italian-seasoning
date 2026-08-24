@@ -9,6 +9,10 @@
   Vancouver, BC
 </p>
 
+<p align="center">
+  <a href="https://nolan-mac-apps.nolankrahn.chatgpt.site"><strong>View the full portfolio →</strong></a>
+</p>
+
 ## Recent apps
 
 <table>
@@ -31,7 +35,7 @@
       </p>
       <h3 align="center">Codex Usage Monitor</h3>
       <p>A native menu bar app and WidgetKit monitor for tokens, context, limits, cost estimates, streaks, and Headroom savings.</p>
-      <p align="center"><a href="https://italian-seasoning.github.io/CodexUsageMonitor/"><strong>View the app →</strong></a></p>
+      <p align="center"><a href="https://nolan-mac-apps.nolankrahn.chatgpt.site/apps/codex-usage"><strong>View the app →</strong></a></p>
     </td>
     <td width="33%" valign="top">
       <p align="center">
