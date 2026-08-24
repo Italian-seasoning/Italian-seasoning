@@ -16,7 +16,7 @@
     <td width="33%" valign="top">
       <p align="center">
         <a href="https://github.com/Italian-seasoning/ParakeetTranscriber">
-          <img src="assets/parakeet-icon.png" width="112" alt="Parakeet Transcriber icon" />
+          <img src="https://raw.githubusercontent.com/Italian-seasoning/Italian-seasoning/main/assets/parakeet-icon.png" width="112" alt="Parakeet Transcriber icon" />
         </a>
       </p>
       <h3 align="center">Parakeet Transcriber</h3>
@@ -26,7 +26,7 @@
     <td width="33%" valign="top">
       <p align="center">
         <a href="https://github.com/Italian-seasoning/CodexUsageMonitor">
-          <img src="assets/codex-usage-icon.png" width="112" alt="Codex Usage Monitor icon" />
+          <img src="https://raw.githubusercontent.com/Italian-seasoning/Italian-seasoning/main/assets/codex-usage-icon.png" width="112" alt="Codex Usage Monitor icon" />
         </a>
       </p>
       <h3 align="center">Codex Usage Monitor</h3>
@@ -36,7 +36,7 @@
     <td width="33%" valign="top">
       <p align="center">
         <a href="https://github.com/Italian-seasoning/Pullr">
-          <img src="assets/pullr-icon.png" width="112" alt="Pullr icon" />
+          <img src="https://raw.githubusercontent.com/Italian-seasoning/Italian-seasoning/main/assets/pullr-icon.png" width="112" alt="Pullr icon" />
         </a>
       </p>
       <h3 align="center">Pullr</h3>
