@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nolan-mac-apps.nolankrahn.chatgpt.site"><strong>View the full portfolio →</strong></a>
+  <a href="https://nolan-mac-apps.nolankrahn.chatgpt.site"><strong>Explore the 3D software showcase →</strong></a>
 </p>
 
 ## Recent apps
@@ -25,15 +25,15 @@
       </p>
       <h3 align="center">Parakeet Transcriber</h3>
       <p>Fast, private transcription with batch input, live progress, and on-device Parakeet, Nemotron, and Whisper models.</p>
-      <p align="center"><a href="https://github.com/Italian-seasoning/ParakeetTranscriber"><strong>Explore the source →</strong></a></p>
+      <p align="center"><a href="https://nolan-mac-apps.nolankrahn.chatgpt.site/apps/parakeet"><strong>View the app →</strong></a></p>
     </td>
     <td width="33%" valign="top">
       <p align="center">
         <a href="https://github.com/Italian-seasoning/CodexUsageMonitor">
-          <img src="https://raw.githubusercontent.com/Italian-seasoning/Italian-seasoning/main/assets/codex-usage-icon.png" width="112" alt="Codex Usage Monitor icon" />
+          <img src="https://raw.githubusercontent.com/Italian-seasoning/Italian-seasoning/main/assets/codex-usage-icon.png" width="112" alt="Runway app icon" />
         </a>
       </p>
-      <h3 align="center">Codex Usage Monitor</h3>
+      <h3 align="center">Runway</h3>
       <p>A native menu bar app and WidgetKit monitor for tokens, context, limits, cost estimates, streaks, and Headroom savings.</p>
       <p align="center"><a href="https://nolan-mac-apps.nolankrahn.chatgpt.site/apps/codex-usage"><strong>View the app →</strong></a></p>
     </td>
@@ -45,10 +45,29 @@
       </p>
       <h3 align="center">Pullr</h3>
       <p>A native media download queue around yt-dlp, with Chrome handoff, Apple Music matching, and local diagnostics.</p>
-      <p align="center"><a href="https://github.com/Italian-seasoning/Pullr/releases/latest"><strong>Get the preview →</strong></a></p>
+      <p align="center"><a href="https://nolan-mac-apps.nolankrahn.chatgpt.site/apps/pullr"><strong>View the app →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <p align="center"><a href="https://github.com/Italian-seasoning/Capturely"><img src="https://raw.githubusercontent.com/Italian-seasoning/Capturely/main/Assets/CapturelyLogo.png" width="112" alt="Capturely app icon" /></a></p>
+      <h3 align="center">Capturely</h3>
+      <p>Native game replay capture with a local replay buffer, clip review, and optional FrameBar performance context.</p>
+      <p align="center"><a href="https://nolan-mac-apps.nolankrahn.chatgpt.site/apps/capturely"><strong>View the app →</strong></a> · <a href="https://github.com/Italian-seasoning/Capturely">Source</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <p align="center"><a href="https://github.com/Italian-seasoning/FrameBar"><img src="https://raw.githubusercontent.com/Italian-seasoning/FrameBar/main/FrameBar/Assets.xcassets/AppIcon.appiconset/icon_512x512@2x.png" width="112" alt="FrameBar app icon" /></a></p>
+      <h3 align="center">FrameBar</h3>
+      <p>CPU, RAM, GPU, and display readings in the menu bar, with a click-through overlay while Roblox is frontmost.</p>
+      <p align="center"><a href="https://nolan-mac-apps.nolankrahn.chatgpt.site/apps/framebar"><strong>View the app →</strong></a> · <a href="https://github.com/Italian-seasoning/FrameBar">Source</a></p>
     </td>
   </tr>
 </table>
+
+## More projects
+
+- [Homebrew tap](https://github.com/Italian-seasoning/homebrew-tap) — installation and updates for my Mac apps.
+- [gooOS](https://github.com/Italian-seasoning/gooOS) — an earlier Linux OS experiment.
 
 ## How I build
 
