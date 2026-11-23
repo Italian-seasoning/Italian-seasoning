@@ -1,76 +1,30 @@
-<h1 align="center">Hey, I’m Nolan.</h1>
+<a href="https://nolan-mac-apps.nolankrahn.chatgpt.site"><img src="assets/banner.svg" width="100%" alt="Italian-seasoning: a menu card on a red gingham tablecloth listing Runway, Parakeet, Pullr, Capturely and FrameBar" /></a>
 
-<p align="center">
-  I build focused native macOS apps for the small annoyances that keep getting in the way.
+# Hi, I'm Nolan
+
+I make small, native Mac apps in Swift and SwiftUI, mostly to fix things that bug me. Based in Vancouver.
+
+## Primi · Mac apps
+
+<p>
+<a href="https://github.com/Italian-seasoning/CodexUsageMonitor"><img src="assets/menu/runway.svg" width="100%" alt="Runway, v4.0.9: Codex usage in your menu bar and widgets" /></a>
+<a href="https://github.com/Italian-seasoning/ParakeetTranscriber"><img src="assets/menu/parakeet.svg" width="100%" alt="Parakeet Transcriber, v1.3.1: Private, on-device transcription for audio and video" /></a>
+<a href="https://github.com/Italian-seasoning/Pullr"><img src="assets/menu/pullr.svg" width="100%" alt="Pullr, v1.1.4: A download queue for yt-dlp, with Apple Music matching" /></a>
+<a href="https://github.com/Italian-seasoning/Capturely"><img src="assets/menu/capturely.svg" width="100%" alt="Capturely, v0.1.3: Replay clipping for games, kept on your Mac" /></a>
+<a href="https://github.com/Italian-seasoning/FrameBar"><img src="assets/menu/framebar.svg" width="100%" alt="FrameBar, v1.0.2: CPU, RAM and GPU readings, with an in-game overlay" /></a>
 </p>
 
-<p align="center">
-  <strong>Swift · SwiftUI · WidgetKit · AppKit</strong><br />
-  Vancouver, BC
-</p>
+**On the showcase:** [Runway](https://nolan-mac-apps.nolankrahn.chatgpt.site/apps/codex-usage) · [Parakeet Transcriber](https://nolan-mac-apps.nolankrahn.chatgpt.site/apps/parakeet) · [Pullr](https://nolan-mac-apps.nolankrahn.chatgpt.site/apps/pullr) · [Capturely](https://nolan-mac-apps.nolankrahn.chatgpt.site/apps/capturely) · [FrameBar](https://nolan-mac-apps.nolankrahn.chatgpt.site/apps/framebar)
 
-<p align="center">
-  <a href="https://nolan-mac-apps.nolankrahn.chatgpt.site"><strong>Explore the 3D software showcase →</strong></a>
-</p>
+**To order:** every app installs with Homebrew.
 
-## Recent apps
+```sh
+brew install --cask italian-seasoning/tap/<runway | parakeet-transcriber | pullr | capturely | framebar>
+```
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <p align="center">
-        <a href="https://github.com/Italian-seasoning/ParakeetTranscriber">
-          <img src="https://raw.githubusercontent.com/Italian-seasoning/Italian-seasoning/main/assets/parakeet-icon.png" width="112" alt="Parakeet Transcriber icon" />
-        </a>
-      </p>
-      <h3 align="center">Parakeet Transcriber</h3>
-      <p>Fast, private transcription with batch input, live progress, and on-device Parakeet, Nemotron, and Whisper models.</p>
-      <p align="center"><a href="https://nolan-mac-apps.nolankrahn.chatgpt.site/apps/parakeet"><strong>View the app →</strong></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center">
-        <a href="https://github.com/Italian-seasoning/CodexUsageMonitor">
-          <img src="https://raw.githubusercontent.com/Italian-seasoning/Italian-seasoning/main/assets/codex-usage-icon.png" width="112" alt="Runway app icon" />
-        </a>
-      </p>
-      <h3 align="center">Runway</h3>
-      <p>A native menu bar app and WidgetKit monitor for tokens, context, limits, cost estimates, streaks, and Headroom savings.</p>
-      <p align="center"><a href="https://nolan-mac-apps.nolankrahn.chatgpt.site/apps/codex-usage"><strong>View the app →</strong></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center">
-        <a href="https://github.com/Italian-seasoning/Pullr">
-          <img src="https://raw.githubusercontent.com/Italian-seasoning/Italian-seasoning/main/assets/pullr-icon.png" width="112" alt="Pullr icon" />
-        </a>
-      </p>
-      <h3 align="center">Pullr</h3>
-      <p>A native media download queue around yt-dlp, with Chrome handoff, Apple Music matching, and local diagnostics.</p>
-      <p align="center"><a href="https://nolan-mac-apps.nolankrahn.chatgpt.site/apps/pullr"><strong>View the app →</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <p align="center"><a href="https://github.com/Italian-seasoning/Capturely"><img src="https://raw.githubusercontent.com/Italian-seasoning/Capturely/main/Assets/CapturelyLogo.png" width="112" alt="Capturely app icon" /></a></p>
-      <h3 align="center">Capturely</h3>
-      <p>Native game replay capture with a local replay buffer, clip review, and optional FrameBar performance context.</p>
-      <p align="center"><a href="https://nolan-mac-apps.nolankrahn.chatgpt.site/apps/capturely"><strong>View the app →</strong></a> · <a href="https://github.com/Italian-seasoning/Capturely">Source</a></p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center"><a href="https://github.com/Italian-seasoning/FrameBar"><img src="https://raw.githubusercontent.com/Italian-seasoning/FrameBar/main/FrameBar/Assets.xcassets/AppIcon.appiconset/icon_512x512@2x.png" width="112" alt="FrameBar app icon" /></a></p>
-      <h3 align="center">FrameBar</h3>
-      <p>CPU, RAM, GPU, and display readings in the menu bar, with a click-through overlay while Roblox is frontmost.</p>
-      <p align="center"><a href="https://nolan-mac-apps.nolankrahn.chatgpt.site/apps/framebar"><strong>View the app →</strong></a> · <a href="https://github.com/Italian-seasoning/FrameBar">Source</a></p>
-    </td>
-  </tr>
-</table>
+## Contorni · other projects
 
-## More projects
-
-- [Homebrew tap](https://github.com/Italian-seasoning/homebrew-tap) — installation and updates for my Mac apps.
-- [gooOS](https://github.com/Italian-seasoning/gooOS) — an earlier Linux OS experiment.
-
-## How I build
-
-- **Native** — SwiftUI first, AppKit when the native API is better.
-- **Local-first** — private work stays on the Mac whenever the product allows it.
-- **Focused** — one specific job, handled well, without turning into a platform.
+- [**Bindery**](https://github.com/Italian-seasoning/bindery): build, share and install libraries of AI coding skills and prompts for Claude Code and Codex.
+- [**EnhancedPresence**](https://github.com/Italian-seasoning/EnhancedPresence): Discord presence for macOS from a menu bar helper, with Apple Music and Vencord support. In beta.
+- [**StudyDesk**](https://github.com/Italian-seasoning/studydesk): a local-first study desk with offline lessons, flashcards and practice tests.
+- [**gooOS**](https://github.com/Italian-seasoning/gooOS): an earlier Linux OS experiment, kept for history.
