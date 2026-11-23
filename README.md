@@ -24,7 +24,7 @@ brew install --cask italian-seasoning/tap/<runway | parakeet-transcriber | pullr
 
 ## Contorni · other projects
 
-- [**Bindery**](https://github.com/Italian-seasoning/bindery): build, share and install libraries of AI coding skills and prompts for Claude Code and Codex.
+- [**Bindery**](https://github.com/Italian-seasoning/bindery): build, share and install libraries of AI coding skills and prompts for Claude Code and Codex. [Website](https://italian-seasoning.github.io/bindery/)
 - [**EnhancedPresence**](https://github.com/Italian-seasoning/EnhancedPresence): Discord presence for macOS from a menu bar helper, with Apple Music and Vencord support. In beta.
 - [**StudyDesk**](https://github.com/Italian-seasoning/studydesk): a local-first study desk with offline lessons, flashcards and practice tests.
 - [**gooOS**](https://github.com/Italian-seasoning/gooOS): an earlier Linux OS experiment, kept for history.
